@@ -1,0 +1,7 @@
+{
+  "name": "biome-repro-type-inference-panic",
+  "private": true,
+  "dependencies": {
+    "elliptic": "6.6.1"
+  }
+}
